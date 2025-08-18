@@ -1,214 +1,25 @@
 {
-  "items": [
-    {
-      "id": "Sample01",
-      "voice_name": "Zephyr",
-      "lang": "ja-JP",
-      "instruction": "Read normally",
-      "text": "昨日はとても楽しい日でした。友達と公園で遊びました。"
-    },
-    {
-      "id": "Sample01",
-      "voice_name": "Kore",
-      "lang": "ja-JP",
-      "instruction": "Read normally",
-      "text": "昨日はとても楽しい日でした。友達と公園で遊びました。"
-    },
-    {
-      "id": "Sample01",
-      "voice_name": "Orus",
-      "lang": "ja-JP",
-      "instruction": "Read normally",
-      "text": "昨日はとても楽しい日でした。友達と公園で遊びました。"
-    },
-    {
-      "id": "Sample01",
-      "voice_name": "Autonoe",
-      "lang": "ja-JP",
-      "instruction": "Read normally",
-      "text": "昨日はとても楽しい日でした。友達と公園で遊びました。"
-    },
-    {
-      "id": "Sample01",
-      "voice_name": "Umbriel",
-      "lang": "ja-JP",
-      "instruction": "Read normally",
-      "text": "昨日はとても楽しい日でした。友達と公園で遊びました。"
-    },
-    {
-      "id": "Sample01",
-      "voice_name": "Erinome",
-      "lang": "ja-JP",
-      "instruction": "Read normally",
-      "text": "昨日はとても楽しい日でした。友達と公園で遊びました。"
-    },
-    {
-      "id": "Sample01",
-      "voice_name": "Laomedeia",
-      "lang": "ja-JP",
-      "instruction": "Read normally",
-      "text": "昨日はとても楽しい日でした。友達と公園で遊びました。"
-    },
-    {
-      "id": "Sample01",
-      "voice_name": "Schedar",
-      "lang": "ja-JP",
-      "instruction": "Read normally",
-      "text": "昨日はとても楽しい日でした。友達と公園で遊びました。"
-    },
-    {
-      "id": "Sample01",
-      "voice_name": "Achird",
-      "lang": "ja-JP",
-      "instruction": "Read normally",
-      "text": "昨日はとても楽しい日でした。友達と公園で遊びました。"
-    },
-    {
-      "id": "Sample01",
-      "voice_name": "Sadachbia",
-      "lang": "ja-JP",
-      "instruction": "Read normally",
-      "text": "昨日はとても楽しい日でした。友達と公園で遊びました。"
-    },
-    {
-      "id": "Sample01",
-      "voice_name": "Puck",
-      "lang": "ja-JP",
-      "instruction": "Read normally",
-      "text": "昨日はとても楽しい日でした。友達と公園で遊びました。"
-    },
-    {
-      "id": "Sample01",
-      "voice_name": "Fenrir",
-      "lang": "ja-JP",
-      "instruction": "Read normally",
-      "text": "昨日はとても楽しい日でした。友達と公園で遊びました。"
-    },
-    {
-      "id": "Sample01",
-      "voice_name": "Aoede",
-      "lang": "ja-JP",
-      "instruction": "Read normally",
-      "text": "昨日はとても楽しい日でした。友達と公園で遊びました。"
-    },
-    {
-      "id": "Sample01",
-      "voice_name": "Enceladus",
-      "lang": "ja-JP",
-      "instruction": "Read normally",
-      "text": "昨日はとても楽しい日でした。友達と公園で遊びました。"
-    },
-    {
-      "id": "Sample01",
-      "voice_name": "Algieba",
-      "lang": "ja-JP",
-      "instruction": "Read normally",
-      "text": "昨日はとても楽しい日でした。友達と公園で遊びました。"
-    },
-    {
-      "id": "Sample01",
-      "voice_name": "Algenib",
-      "lang": "ja-JP",
-      "instruction": "Read normally",
-      "text": "昨日はとても楽しい日でした。友達と公園で遊びました。"
-    },
-    {
-      "id": "Sample01",
-      "voice_name": "Achernar",
-      "lang": "ja-JP",
-      "instruction": "Read normally",
-      "text": "昨日はとても楽しい日でした。友達と公園で遊びました。"
-    },
-    {
-      "id": "Sample01",
-      "voice_name": "Gacrux",
-      "lang": "ja-JP",
-      "instruction": "Read normally",
-      "text": "昨日はとても楽しい日でした。友達と公園で遊びました。"
-    },
-    {
-      "id": "Sample01",
-      "voice_name": "Zubenelgenubi",
-      "lang": "ja-JP",
-      "instruction": "Read normally",
-      "text": "昨日はとても楽しい日でした。友達と公園で遊びました。"
-    },
-    {
-      "id": "Sample01",
-      "voice_name": "Sadaltager",
-      "lang": "ja-JP",
-      "instruction": "Read normally",
-      "text": "昨日はとても楽しい日でした。友達と公園で遊びました。"
-    },
-    {
-      "id": "Sample01",
-      "voice_name": "Charon",
-      "lang": "ja-JP",
-      "instruction": "Read normally",
-      "text": "昨日はとても楽しい日でした。友達と公園で遊びました。"
-    },
-    {
-      "id": "Sample01",
-      "voice_name": "Leda",
-      "lang": "ja-JP",
-      "instruction": "Read normally",
-      "text": "昨日はとても楽しい日でした。友達と公園で遊びました。"
-    },
-    {
-      "id": "Sample01",
-      "voice_name": "Callirrhoe",
-      "lang": "ja-JP",
-      "instruction": "Read normally",
-      "text": "昨日はとても楽しい日でした。友達と公園で遊びました。"
-    },
-    {
-      "id": "Sample01",
-      "voice_name": "Iapetus",
-      "lang": "ja-JP",
-      "instruction": "Read normally",
-      "text": "昨日はとても楽しい日でした。友達と公園で遊びました。"
-    },
-    {
-      "id": "Sample01",
-      "voice_name": "Despina",
-      "lang": "ja-JP",
-      "instruction": "Read normally",
-      "text": "昨日はとても楽しい日でした。友達と公園で遊びました。"
-    },
-    {
-      "id": "Sample01",
-      "voice_name": "Rasalgethi",
-      "lang": "ja-JP",
-      "instruction": "Read normally",
-      "text": "昨日はとても楽しい日でした。友達と公園で遊びました。"
-    },
-    {
-      "id": "Sample01",
-      "voice_name": "Alnilam",
-      "lang": "ja-JP",
-      "instruction": "Read normally",
-      "text": "昨日はとても楽しい日でした。友達と公園で遊びました。"
-    },
-    {
-      "id": "Sample01",
-      "voice_name": "Pulcherrima",
-      "lang": "ja-JP",
-      "instruction": "Read normally",
-      "text": "昨日はとても楽しい日でした。友達と公園で遊びました。"
-    },
-    {
-      "id": "Sample01",
-      "voice_name": "Vindemiatrix",
-      "lang": "ja-JP",
-      "instruction": "Read normally",
-      "text": "昨日はとても楽しい日でした。友達と公園で遊びました。"
-    },
-    {
-      "id": "Sample01",
-      "voice_name": "Sulafat",
-      "lang": "ja-JP",
-      "instruction": "Read normally",
-      "text": "昨日はとても楽しい日でした。友達と公園で遊びました。"
-    }
-  ]
+    "items": [
+        {
+            "id": "02-01",
+            "voice_name": "Kore",
+            "lang": "ja-JP",
+            "instruction": "Read clearly",
+            "text": "このテキストを読み上げて下さい"
+        },
+        {
+            "id": "02-02",
+            "voice_name": "Puck",
+            "lang": "ja-JP",
+            "instruction": "Read brightly",
+            "text": "こちらの文章をよみあげてください！"
+        },
+        {
+            "id": "02-03",
+            "voice_name": "Charon",
+            "lang": "ja-JP",
+            "instruction": "Read in a calm, informative tone",
+            "text": "Geminiは、Googleによって開発されたマルチモーダルAIモデルです。"
+        }
+    ]
 }
