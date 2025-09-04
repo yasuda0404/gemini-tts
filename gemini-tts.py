@@ -131,6 +131,8 @@ def synthesize_items(items: List[Dict[str, Any]], model_name: str = "gemini-2.5-
                 contents=prompt,
                 config=types.GenerateContentConfig(
                     response_modalities=["AUDIO"],  # 音声出力を明示
+                    #system_instruction="Read as if you're a teen-ager in a radio play.",
+                    temperature=1.0,
                     speech_config=types.SpeechConfig(
                         voice_config=types.VoiceConfig(
                             prebuilt_voice_config=types.PrebuiltVoiceConfig(
@@ -191,7 +193,8 @@ def main():
         sys.exit(1)
 
     # 3) 合成の実行
-    synthesize_items(items)
+    model = "gemini-2.5-pro-preview-tts"
+    synthesize_items(items, model_name=model)
 
 
 if __name__ == "__main__":
