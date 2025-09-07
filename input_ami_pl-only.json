@@ -1,0 +1,233 @@
+{
+    "common": {
+        "instruction": "Your role is to introduce Polish culture to Japan, so please read the following sentence in Polish"
+    },
+    "items": [
+        {
+            "id": "zal_pl",
+            "voice_name": "Kore",
+            "lang": "pl-PL",
+            "instruction": "",
+            "text": "Fryderyk Chopin, 'Żal'"
+        }
+    ],
+    "notused": [
+        {
+            "id": "bocian_pl",
+            "voice_name": "Kore",
+            "lang": "pl-PL",
+            "instruction": "",
+            "text": "gniazdo"
+        },
+        {
+            "id": "chleb_pl",
+            "voice_name": "Kore",
+            "lang": "pl-PL",
+            "instruction": "",
+            "text": "Robić coś dla chleba, Wyjeżdżać za chlebem"
+        },
+        {
+            "id": "chrzaszcz_pl",
+            "voice_name": "Kore",
+            "lang": "pl-PL",
+            "instruction": "",
+            "text": ""
+        },
+        {
+            "id": "czerwony_pl",
+            "voice_name": "Kore",
+            "lang": "pl-PL",
+            "instruction": "",
+            "text": "biało-czerwona, czerwony, czerw, czerwiec"
+        },
+        {
+            "id": "dziecko_pl",
+            "voice_name": "Kore",
+            "lang": "pl-PL",
+            "instruction": "",
+            "text": "Janusz Korczak, dzieciństwo, dorośli"
+        },
+        {
+            "id": "gora_pl",
+            "voice_name": "Kore",
+            "lang": "pl-PL",
+            "instruction": "",
+            "text": "Tatry, Karpaty, Rysy"
+        },
+        {
+            "id": "grzyb_pl",
+            "voice_name": "Kore",
+            "lang": "pl-PL",
+            "instruction": "",
+            "text": "grzyby, grzybobranie"
+        },
+        {
+            "id": "imieniny_pl",
+            "voice_name": "Kore",
+            "lang": "pl-PL",
+            "instruction": "",
+            "text": "urodziny, imieniny"
+        },
+        {
+            "id": "jabeko_pl",
+            "voice_name": "Kore",
+            "lang": "pl-PL",
+            "instruction": "",
+            "text": "kiszone, dżem, szarlotka, jabłko, jabłecznik"
+        },
+        {
+            "id": "kino_pl",
+            "voice_name": "Kore",
+            "lang": "pl-PL",
+            "instruction": "",
+            "text": "Andrzej Wajda, Wojciech Jerzy Has, Kazimierz Kutz"
+        },
+        {
+            "id": "ksiazka_pl",
+            "voice_name": "Kore",
+            "lang": "pl-PL",
+            "instruction": "",
+            "text": "De Revolutionibus orbium coelestium, Adam Mickiewicz, Konrad Wallenrod"
+        },
+        {
+            "id": "miasto_pl",
+            "voice_name": "Kore",
+            "lang": "pl-PL",
+            "instruction": "",
+            "text": "miasto, Warszawa, stolica, Sawa, Kraków, Wars, miasto"
+        },
+        {
+            "id": "mis_pl",
+            "voice_name": "Kore",
+            "lang": "pl-PL",
+            "instruction": "",
+            "text": "Wojtek, polski bohater"
+        },
+        {
+            "id": "nauka_pl",
+            "voice_name": "Kore",
+            "lang": "pl-PL",
+            "instruction": "",
+            "text": "naukowcy, naukowiec, Mikołaj Kopernik, Jan Heweliusz, Michał Sędziwój"
+        },
+        {
+            "id": "obiad_pl",
+            "voice_name": "Kore",
+            "lang": "pl-PL",
+            "instruction": "",
+            "text": "rosół, barszcz, pomidorowa, schabowy, ziemniaki, mizeria, gołąbki"
+        },
+        {
+            "id": "oplatek_pl",
+            "voice_name": "Kore",
+            "lang": "pl-PL",
+            "instruction": "",
+            "text": "Wigilia, opłatek"
+        },
+        {
+            "id": "pan_pl",
+            "voice_name": "Kore",
+            "lang": "pl-PL",
+            "instruction": "",
+            "text": "pan, pani"
+        },
+        {
+            "id": "pierogi_pl",
+            "voice_name": "Kore",
+            "lang": "pl-PL",
+            "instruction": "",
+            "text": "pierogi"
+        },
+        {
+            "id": "pole_pl",
+            "voice_name": "Kore",
+            "lang": "pl-PL",
+            "instruction": "",
+            "text": "polny"
+        },
+        {
+            "id": "polon_pl",
+            "voice_name": "Kore",
+            "lang": "pl-PL",
+            "instruction": "",
+            "text": "polon, Maria Skłodowska-Curie"
+        },
+        {
+            "id": "prosze_pl",
+            "voice_name": "Kore",
+            "lang": "pl-PL",
+            "instruction": "",
+            "text": "proszę, proszę"
+        },
+        {
+            "id": "solidarnosc_pl",
+            "voice_name": "Kore",
+            "lang": "pl-PL",
+            "instruction": "",
+            "text": "ś, ć, Solidarność"
+        },
+        {
+            "id": "taniec_pl",
+            "voice_name": "Kore",
+            "lang": "pl-PL",
+            "instruction": "",
+            "text": "polonez"
+        },
+        {
+            "id": "tradycja_pl",
+            "voice_name": "Kore",
+            "lang": "pl-PL",
+            "instruction": "",
+            "text": "Śmigus Dyngus, Andrzejki"
+        },
+        {
+            "id": "witamina_pl",
+            "voice_name": "Kore",
+            "lang": "pl-PL",
+            "instruction": "",
+            "text": "'Kazimierz Funk'"
+        },
+        {
+            "id": "wojna_pl",
+            "voice_name": "Kore",
+            "lang": "pl-PL",
+            "instruction": "",
+            "text": "Dzień Niepodległości"
+        },
+        {
+            "id": "wolnosc_pl",
+            "voice_name": "Kore",
+            "lang": "pl-PL",
+            "instruction": "",
+            "text": "Za wolność naszą i waszą"
+        },
+        {
+            "id": "wynalazek_pl",
+            "voice_name": "Kore",
+            "lang": "pl-PL",
+            "instruction": "",
+            "text": "wynalazki, wynalazek, Stefan Drzewiecki, Józef Tykociński-Tykociner, Józef Kosacki, Mieczysław Bekker, Jack Tramiel, Jacek Trzmiel"
+        },
+        {
+            "id": "ziemniak_pl",
+            "voice_name": "Kore",
+            "lang": "pl-PL",
+            "instruction": "",
+            "text": "ziemniaki, ziemniak"
+        },
+        {
+            "id": "zal_pl",
+            "voice_name": "Kore",
+            "lang": "pl-PL",
+            "instruction": "",
+            "text": "Fryderyk Chopin, 'Żal'"
+        },
+        {
+            "id": "zubr_pl",
+            "voice_name": "Kore",
+            "lang": "pl-PL",
+            "instruction": "",
+            "text": "żubr, Białowieża, puszcza"
+        }
+    ]
+}

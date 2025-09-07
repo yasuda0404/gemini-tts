@@ -1,0 +1,227 @@
+{
+    "common": {
+        "instruction": "Your role is to introduce Polish culture in English -read the following sentence in American English, with only the words enclosed in angle brackets <> being in Polish"
+    },
+    "items": [
+
+    ],
+    "notused": [
+        {
+            "id": "bocian_en",
+            "voice_name": "Kore",
+            "lang": "en-US",
+            "instruction": "",
+            "text": "As many as 90,000 – around a quarter of the world's population of the carnivorous bird – make Poland their home for part of the year. They wisely migrate south to avoid the freezing Polish winters, spending the winter months in Africa, but always return to the same <gniazdo> (‘nest’) to rear their young"
+        },
+        {
+            "id": "chleb_en",
+            "voice_name": "Kore",
+            "lang": "en-US",
+            "instruction": "",
+            "text": "The relevance of bread in Polish culture is reflected in many idiomatic phrases. For example, the phrase <Robić coś dla chleba> means to do something for the sake of subsistence, or out of necessity. And labour migration is usually referred to as <Wyjeżdżać za chlebem> (literally 'to depart for bread')."
+        },
+        {
+            "id": "chrzaszcz_en",
+            "voice_name": "Kore",
+            "lang": "en-US",
+            "instruction": "",
+            "text": "According to a rather apocryphal quote by French actress Sarah Bernhardt, hearing spoken Polish is much like hearing someone chewing glass. Others have compared it to the rustling of leaves, or the sound of skates sliding on ice. Is it really that bad?"
+        },
+        {
+            "id": "czerwony_en",
+            "voice_name": "Kore",
+            "lang": "en-US",
+            "instruction": "",
+            "text": "Red is central to Poland’s national flag (<biało-czerwona>) and traditional culture, appearing in folk dress and historic coats-of-arms. The Polish word for red, <czerwony>, comes from <czerw> / <czerwiec> – a small insect once used to make red dye popular in medieval Europe."
+        },
+        {
+            "id": "dziecko_en",
+            "voice_name": "Kore",
+            "lang": "en-US",
+            "instruction": "",
+            "text": "<Janusz Korczak> challenged how <dorośli> (‘adults’) view children and <dzieciństwo> (‘childhood’), insisting every child is a full individual deserving respect. He famously said that 'there are no children, only people', rejecting the idea of childhood as a waiting stage."
+        },
+        {
+            "id": "gora_en",
+            "voice_name": "Kore",
+            "lang": "en-US",
+            "instruction": "",
+            "text": "Poland’s southern border runs along mountain ranges popular for holidays. The <Tatry> (Tatras), part of the <Karpaty> (Carpathians), separate Poland from Slovakia. Mount <Rysy> – meaning 'scratches' or 'crevices' – is Poland’s highest peak at 2,501 m (8,205 ft)."
+        },
+        {
+            "id": "grzyb_en",
+            "voice_name": "Kore",
+            "lang": "en-US",
+            "instruction": "",
+            "text": "From late summer to the first frost, Poles flock to forests to pick <grzyby> (‘mushrooms’). While it may seem risky to outsiders wary of poisonous varieties, <grzybobranie> (‘mushroom picking’) is a beloved national pastime – so familiar that most Poles have some experience with it."
+        },
+        {
+            "id": "imieniny_en",
+            "voice_name": "Kore",
+            "lang": "en-US",
+            "instruction": "",
+            "text": "Stay in Poland long enough and you’ll notice the somewhat regular frequency of family celebrations in Polish homes. It clearly can’t just be <urodziny> (‘birthdays’), since some of your acquaintances have these sorts of celebrations twice a year. The answer is <imieniny>, or name days."
+        },
+        {
+            "id": "jabeko_en",
+            "voice_name": "Kore",
+            "lang": "en-US",
+            "instruction": "",
+            "text": "Traditional Polish cuisine was very fond of apples – our ancestors particularly enjoyed them <kiszone> (‘pickled’), not something we would indulge in today. Now <   is used to make <dżem> (‘jam’) or an apple cake called <szarlotka>. One cake variety, known as <jabłecznik>, makes use of cinnamon and dried cloves."
+        },
+        {
+            "id": "kino_en",
+            "voice_name": "Kore",
+            "lang": "en-US",
+            "instruction": "",
+            "text": "In the late 1950s to 60s, Polish filmmakers gained freedom after post-war repression. They opposed official doctrine, portraying Poland's national character and complex history. This created the Polish Film School period, producing great directors like <Andrzej Wajda>, <Wojciech Jerzy Has> and <Kazimierz Kutz>."
+        },
+        {
+            "id": "ksiazka_en",
+            "voice_name": "Kore",
+            "lang": "en-US",
+            "instruction": "",
+            "text": "What about books from Poland that changed the world? Copernicus’ '<De Revolutionibus>' (1543) transformed how we see the universe. As for sparking political events, Adam Mickiewicz’s '<Konrad Wallenrod>' (1828) is said to have impacted the outbreak of the November Uprising (1830)."
+        },
+        {
+            "id": "miasto_en",
+            "voice_name": "Kore",
+            "lang": "en-US",
+            "instruction": "",
+            "text": "Poland’s largest <miasto>, <Warszawa> (Warsaw) has been Poland’s <stolica> (‘capital’) since 1596. A legend says it owes its name to a mermaid called <Sawa> and a fisherman called <Wars>. Before that, <Kraków> was capital for over 600 years. It’s Poland’s second largest <miasto> and most popular tourist destination."
+        },
+        {
+            "id": "mis_en",
+            "voice_name": "Kore",
+            "lang": "en-US",
+            "instruction": "",
+            "text": "World War Two's Corporal <Wojtek> was a beloved brown bear literally enlisted in Anders' Army with a service number and guard duties. A true <polski bohater> (‘Polish hero’), he fought at the Battle of Monte Cassino and served as his company's logo, boosting morale during tough times."
+        },
+        {
+            "id": "nauka_en",
+            "voice_name": "Kore",
+            "lang": "en-US",
+            "instruction": "",
+            "text": "Important Polish <naukowcy> (‘scientists’) include <Mikołaj Kopernik>, who discovered the Earth revolved around the Sun, launching the Copernican Revolution. <Jan Heweliusz>  founded lunar topography with his maps of the Moon. Meanwhile, <Michał Sędziwój> paved the way for the discovery of oxygen. "
+        },
+        {
+            "id": "obiad_en",
+            "voice_name": "Kore",
+            "lang": "en-US",
+            "instruction": "",
+            "text": "A classic Polish family dinner would likely start with <rosół> (‘broth’), <barszcz> (‘beetroot soup’) or <pomidorowa> (‘tomato soup’). The main would be <schabowy> with <ziemniaki> (‘potatoes’) and <mizeria> (cucumbers with sour cream), or <gołąbki> (cabbage leaves wrapped around a filling of minced meat with onion and rice)."
+        },
+        {
+            "id": "oplatek_en",
+            "voice_name": "Kore",
+            "lang": "en-US",
+            "instruction": "",
+            "text": "Sharing <opłatek> traditionally starts Polish Christmas dinner on <Wigilia> (Christmas Eve). The word comes from the Latin oblatum (‘an offering or sacrificial gift’, similar to ‘oblation’ in English). Meanwhile, the wafer itself is just flour and water, baked and embossed with a festive design."
+        },
+        {
+            "id": "pan_en",
+            "voice_name": "Kore",
+            "lang": "en-US",
+            "instruction": "",
+            "text": "In contemporary Polish, <pan> (‘Sir’, ‘Mr’, ‘Lord’) and <pani> (‘Mrs’, ‘Lady’) are perhaps the most important element of the Polish honorific system, which in its complexity is sometimes compared to the complicated rules of Japanese language etiquette."
+        },
+        {
+            "id": "pierogi_en",
+            "voice_name": "Kore",
+            "lang": "en-US",
+            "instruction": "",
+            "text": "There is a legend that, much like how pasta came to Italy, <pierogi> were brought from the Far East via Marco Polo’s expeditions. This does seem plausible as most East Asian countries have a long tradition of dumplings, although, obviously, we prefer the form found in Poland."
+        },
+        {
+            "id": "pole_en",
+            "voice_name": "Kore",
+            "lang": "en-US",
+            "instruction": "",
+            "text": "Fields continue to shape the popular image of Poland as a largely lowland rural area dominated by agriculture. But even if the Great European Plain does irrefutably run across Poland, the geographical reality is more complex and diverse – and the Polish landscape is rarely only <polny> (‘fieldlike’)."
+        },
+        {
+            "id": "polon_en",
+            "voice_name": "Kore",
+            "lang": "en-US",
+            "instruction": "",
+            "text": "The name ‘polonium’ (polon) was a clear reference to Poland (it means ‘Polish’ in Latin) by a Polish immigrant in France. It came when Poland had not been on the map for over 100 years. <Maria Skłodowska-Curie> was using her scientific discovery to bring the world’s attention to Poland’s lack of independence as a sovereign state."
+        },
+        {
+            "id": "prosze_en",
+            "voice_name": "Kore",
+            "lang": "en-US",
+            "instruction": "",
+            "text": "<Proszę> means ‘please’, but it’s also so much more – it might be the most useful Polish word you’ll ever learn. When used properly, <proszę> opens every door and melts everybody’s hearts."
+        },
+        {
+            "id": "solidarnosc_en",
+            "voice_name": "Kore",
+            "lang": "en-US",
+            "instruction": "",
+            "text": "When the political movement <Solidarność> became famous in the early 1980s, the Polish letters <ś> and <ć> introduced a global audience to the peculiarities of the Polish alphabet. At home, the movement's regional delegates were arrested and jailed, forcing <Solidarność> underground – this included Yoshiho Umeda, a Japanese businessman turned diplomat who had emigrated to Poland."
+        },
+        {
+            "id": "taniec_en",
+            "voice_name": "Kore",
+            "lang": "en-US",
+            "instruction": "",
+            "text": "The elegant <polonez> (‘polonaise’) is the quintessential Polish dance – it means ‘Polish’ in French. Named when it became popular in 17th-century France, Polish records date the dance back to the 15th century. It is still danced today by almost every Pole at their school graduation ball."
+        },
+        {
+            "id": "tradycja_en",
+            "voice_name": "Kore",
+            "lang": "en-US",
+            "instruction": "",
+            "text": "Despite the predominance of Christian customs, some traditional Polish festivals come from ancient Slavic rites. For example, Easter Monday is also <Śmigus Dyngus>, a day you can throw water on strangers, even bucketfuls. On November 29th, the eve before <Andrzejki> (Saint Andrew’s Day), people melt wax through a key to reveal their future."
+        },
+        {
+            "id": "witamina_en",
+            "voice_name": "Kore",
+            "lang": "en-US",
+            "instruction": "",
+            "text": "The word ‘vitamin’, coined by the Polish biochemist <Kazimierz Funk>, entered the English dictionary and from there many other languages. This makes it perhaps one of a handful of ‘Polish’ words in the global lexicon."
+        },
+        {
+            "id": "wojna_en",
+            "voice_name": "Kore",
+            "lang": "en-US",
+            "instruction": "",
+            "text": "The conclusion of World War I meant Poland regained its freedom after 123 years of partitions, thus, what is commemorated as Armistice Day in other countries is celebrated as <Dzień Niepodległości> (Independence Day) in Poland."
+        },
+        {
+            "id": "wolnosc_en",
+            "voice_name": "Kore",
+            "lang": "en-US",
+            "instruction": "",
+            "text": "Throughout the 19th century, the Polish national cause and the fight for freedom of other nations were often considered synonymous. The Polish call '<Za wolność naszą i waszą>' ('For our freedom and yours') landed on the banners of many a rebellion and revolt around the world."
+        },
+        {
+            "id": "wynalazek_en",
+            "voice_name": "Kore",
+            "lang": "en-US",
+            "instruction": "",
+            "text": "Poles are inventive people. Polish <wynalazki> (‘inventions’) include: the first electric submarine (<Stefan Drzewiecki>); the first motion picture with integrated sound (<Józef Tykociński-Tykociner>); mine detectors (<Józef Kosacki>); the Lunar Roving Vehicle (<Mieczysław Bekker>); and the Commodore 64 computer (<Jack Tramiel>, born <Jacek Trzmiel>)."
+        },
+        {
+            "id": "ziemniak_en",
+            "voice_name": "Kore",
+            "lang": "en-US",
+            "instruction": "",
+            "text": "Poles remain dedicated potato-eaters, ranking among the top EU countries in terms of potato consumption per capita. <Ziemniaki> are eaten usually as a side dish to dinner (mashed or boiled)."
+        },
+        {
+            "id": "zal_en",
+            "voice_name": "Kore",
+            "lang": "en-US",
+            "instruction": "",
+            "text": "<Fryderyk Chopin> was asked what he called that feeling that reigned throughout his compositions (and which his interlocutor compared to 'unknown ashes in superb urns of most exquisitely-chiselled alabaster'). His answer was: '<Żal>'."
+        },
+        {
+            "id": "zubr_en",
+            "voice_name": "Kore",
+            "lang": "en-US",
+            "instruction": "",
+            "text": "The mighty <żubr>, known in English as the wisent or the European bison, lives primarily around the Poland-Belarus border in the <Białowieża> National Park – a primaeval forest, for which the Polish language reserves the word <puszcza>."
+        }
+    ]
+}

@@ -16,6 +16,15 @@ venv/
 
 # Environment
 .env
+.env*
 
 # Outputs
 output/
+
+# Backups
+_output-backup
+_backup
+
+# Audition
+_audition/
+Audition/

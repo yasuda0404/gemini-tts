@@ -1,0 +1,229 @@
+{
+    "common": {
+        "instruction": "Your role is to introduce Polish culture to Japan, so please read the following sentence in Japanese, however, read the Polish words enclosed in angle brackets <> with the correct Polish pronunciation",
+        "xinstruction": "Your role is to introduce Polish culture in Japanese -read the following sentence in Japanese, with only the words enclosed in angle brackets <> being in Polish"
+    },
+    "items":[
+        
+    ],
+
+    "notused":[
+        {
+            "id": "bocian_ja",
+            "voice_name": "Kore",
+            "lang": "ja-JP",
+            "instruction": "",
+            "text": "肉食チョウであるコウノトリの世界個体数の約4分の1にあたる9万ばが、一年の一部をポーランドで過ごします。彼らはポーランドの凍りつく冬を避けるために賢明にも南へ渡り、アフリカで冬を過ごしますが、常に同じ <gniazdo>（巣）に戻って子育てをします。"
+        },
+        {
+            "id": "chleb_ja",
+            "voice_name": "Kore",
+            "lang": "ja-JP",
+            "instruction": "",
+            "text": "ポーランド文化におけるパンの重要性は、慣用句の多さからもうかがい知ることができます。たとえば、<Robić coś dla chleba>（パンのために何かする）は、生活のためにやむなく、あるいは必要に駆られて何かをすることを意味します。また、労働目的の移住は<Wyjeżdżać za chlebem>（パンのために旅に出る）と言われます。"
+        },
+        {
+            "id": "chrzaszcz_ja",
+            "voice_name": "Kore",
+            "lang": "ja-JP",
+            "instruction": "",
+            "text": "フランス人女優のサラ・ベルナールが、ポーランド語が話されているのを聞くのは、誰かがガラスを噛む音を聞くようなものだと評したというのは、出どころこそ怪しいものの、有名です。木々の葉がサラサラとそよぐ音や、氷の上を滑るスケートの音にたとえる人もいます。ポーランド語は、本当にそんなに変わったものなのでしょうか？"
+        },
+        {
+            "id": "czerwony_ja",
+            "voice_name": "Kore",
+            "lang": "ja-JP",
+            "instruction": "",
+            "text": "赤色はポーランド国旗（<biało-czerwona>）と伝統文化の中心で、民族衣装や歴史的な紋章に使われてきました。ポーランド語で「赤い」を意味する <czerwony> という単語は、<czerw> または<czerwiec>に由来します。これはかつて、赤い染料を作るために中世のヨーロッパで広く用いられた、小さな昆虫（カイガラムシ）の名前です。"
+        },
+        {
+            "id": "dziecko_ja",
+            "voice_name": "Kore",
+            "lang": "ja-JP",
+            "instruction": "",
+            "text": "<Janusz Korczak>は、子どもと<dzieciństwo>（幼少期）に対する<dorośli>（大人）の認識を変えようと試み、子ども一人ひとりが立派な個人であり、敬意を持って扱われる権利があると論じました。彼は「子どもというものはなく、人間だけが存在する」という名言を残しています。"
+        },
+        {
+            "id": "gora_ja",
+            "voice_name": "Kore",
+            "lang": "ja-JP",
+            "instruction": "",
+            "text": "ポーランド南部の国境は山脈に沿っており、休暇に人気の場所です。<Tatry>（タトラ山地）は<Karpaty>（カルパティア山脈）の一部で、ポーランドとスロヴァキアの境目になっています。<Rysy>山の名前には「かき傷」や「裂け目」という意味があり、標高2,501メートル、ポーランドの最高峰です。"
+        },
+        {
+            "id": "grzyb_ja",
+            "voice_name": "Kore",
+            "lang": "ja-JP",
+            "instruction": "",
+            "text": "夏の終わりから初霜の頃まで、ポーランド人は群れをなして、森に<grzyby>〔<grzyb>の複数形〕（キノコ）を採りに行きます。有毒種を心配する外国人から見ると、<grzybobranie>（キノコ狩り）は危険な行動に思えるかもしれませんが、ポーランド人にとって、これは国民的な娯楽で、ほとんどの人が経験しています。"
+        },
+        {
+            "id": "imieniny_ja",
+            "voice_name": "Kore",
+            "lang": "ja-JP",
+            "instruction": "",
+            "text": "ポーランドに長くいると、ポーランドの家庭では、何やら定期的にお祝いが行われていることに気づくでしょう。どうやら<urodziny>（誕生日）だけを祝っているわけではなさそうです。というのも、年に２度、お祝いをしている人たちがいるのです。彼らが祝っているのは、<imieniny>。つまり「名前の日」です。"
+        },
+        {
+            "id": "jabeko_ja",
+            "voice_name": "Kore",
+            "lang": "ja-JP",
+            "instruction": "",
+            "text": "伝統的なポーランドの料理には、りんごが好んで用いられます。私たちの祖先は、とりわけ <kiszone>（酢漬け）を楽しみましたが、こんにち、私たちの口には合わないでしょう。今ではヤプコは、<dżem>（ジャム）や<szarlotka>と呼ばれるりんごのケーキを作るのに使われています。<jabłecznik>として知られる種類のケーキには、シナモンと乾燥させたクローブが用いられます。"
+        },
+        {
+            "id": "kino_ja",
+            "voice_name": "Kore",
+            "lang": "ja-JP",
+            "instruction": "",
+            "text": "1950年代後半から1960年代にかけ、ポーランドの映画制作者たちは戦後の抑圧を乗り越え、自由を獲得しました。既存の社会のとらえ方に立ち向かい、ポーランド人の国民性や、この国の複雑な歴史を描きました。これにより「ポーランド派」の時代が到来し、<Andrzej Wajda>、<Wojciech Jerzy Has>、<Kazimierz Kutz>など、多くのすぐれたポーランド人監督を輩出しました。"
+        },
+        {
+            "id": "ksiazka_ja",
+            "voice_name": "Kore",
+            "lang": "ja-JP",
+            "instruction": "",
+            "text": "ポーランドで生まれ、世界を変えた本があります。コペルニクスは『天球の回転について』 <De Revolutionibus orbium coelestium>（1543）で、私たちの宇宙のとらえ方を一変させました。政治的な大事件を誘発した本としては、<Adam Mickiewicz>の『コンラット・ヴァレンロット』（1828）が11月蜂起（1830年）の勃発に影響を与えたと言われています。"
+        },
+        {
+            "id": "miasto_ja",
+            "voice_name": "Kore",
+            "lang": "ja-JP",
+            "instruction": "",
+            "text": "ポーランド最大の<miasto>、<Warszawa>（ワルシャワ）は、1596年からポーランドの<stolica>（'首都'）です。伝説では、ワルシャワの名はヴァルスという漁師とサヴァという人魚が由来とされています。それ以前には600年以上、クラクフが首都でした。クラクフはポーランド第二の<miasto>で、人気の観光地となっています。"
+        },
+        {
+            "id": "mis_ja",
+            "voice_name": "Kore",
+            "lang": "ja-JP",
+            "instruction": "",
+            "text": "第二次世界大戦中、人気者のヒグマ「ヴォイテク伍長」はアンデルス将軍の師団に入隊し、兵士番号を与えられて歩哨を務めました。真の<polski bohater>（ポーランドの英雄）としてモンテ・カシノの戦いに参加し、軍団のシンボルとして、苦境のときに兵の士気を保ちました。"
+        },
+        {
+            "id": "nauka_ja",
+            "voice_name": "Kore",
+            "lang": "ja-JP",
+            "instruction": "",
+            "text": "ポーランドの偉大な<naukowcy>〔<naukowiec>の複数形〕（科学者たち）を紹介しましょう。<Mikołaj Kopernik>（ニコラウス・コペルニクス）は、地球が太陽の周りを回っているとする地動説を提唱し、コペルニクス的転回をもたらしました。<Jan Heweliusz>（ヨハネス・ヘヴェリウス）は月の地図を作った人物で、月面地形学の創始者です。<Michał Sędziwój>（ミカエル・センディヴォギウス）は、酸素発見への道を開きました。"
+        },
+        {
+            "id": "obiad_ja",
+            "voice_name": "Kore",
+            "lang": "ja-JP",
+            "instruction": "",
+            "text": "典型的なポーランドのディナーでは、まず<rosół>（コンソメスープ）、<barszcz>（ビーツのスープ）か、<pomidorowa>（トマトスープ）が供されます。メインは<schabowy>（豚肉のカツレツ）に<ziemniaki>（じゃがいも）と<mizeria>（きゅうりのサワークリーム和え）を添えたもの、または、<gołąbki>（ひき肉・玉ねぎと米を詰めたロールキャベツ）のときもあります。"
+        },
+        {
+            "id": "oplatek_ja",
+            "voice_name": "Kore",
+            "lang": "ja-JP",
+            "instruction": "",
+            "text": "ポーランドの伝統的な<Wigilia>（クリスマス・イヴ）のディナーは、<opłatek> を皆で分けることから始まります。この言葉の語源はラテン語のオブラトゥム（神への捧げ物の意）です。小麦粉と水を材料として焼かれたこのウエハースには、クリスマスのお祝いにふさわしいデザインが型押しされています。"
+        },
+        {
+            "id": "pan_ja",
+            "voice_name": "Kore",
+            "lang": "ja-JP",
+            "instruction": "",
+            "text": "現代ポーランド語では、'<pan>'（「あなた」、「—さま／さん」、「—殿／氏」、「—爵」）と、'<pani>'（「—夫人」、「—嬢」）は、ときに日本語の敬語表現とも比較される、ポーランド語の複雑な敬称のしくみの中で、おそらくもっとも重要な単語です。."
+        },
+        {
+            "id": "pierogi_ja",
+            "voice_name": "Kore",
+            "lang": "ja-JP",
+            "instruction": "",
+            "text": "'<pierogi>'には、マルコ・ポーロの探検を通じて極東からもたらされたとする、イタリアへのパスタ伝来と似た説があります。東アジアの多くの国々には餃子のような料理を作る伝統があるため、信憑性の高い話といえるでしょう。でももちろん、私たちは、ポーランドで食べられるものがいちばん好きです。"
+        },
+        {
+            "id": "pole_ja",
+            "voice_name": "Kore",
+            "lang": "ja-JP",
+            "instruction": "",
+            "text": "平野の姿は、主として低地・田園地帯で、農業が盛んなポーランドのイメージそのものです。ただ、ヨーロッパ平原がポーランドをオウダンしているのは確かですが、国全体を見ると、もっと複雑で多様な地理的な特質を持っています。実際の風景が、ただ<polny>（平原のような）であることは、非常にまれなのです。."
+        },
+        {
+            "id": "polon_ja",
+            "voice_name": "Kore",
+            "lang": "ja-JP",
+            "instruction": "",
+            "text": "マリア・スクウォドフスカ・キュリーは、自分が発見した新元素に、ラテン語で「ポーランドの」を意味する「ポロニウム」（<polon>）という名をつけました。フランスのポーランド移民として、明らかにポーランドに言及したのです。このとき、ポーランドは100年以上、ヨーロッパの地図上に存在していませんでした。マリアはこの科学的な発見を用いて、世界の関心を、ポーランドが主権国家としての独立性を欠いていることへ向けようとしていました。"
+        },
+        {
+            "id": "prosze_ja",
+            "voice_name": "Kore",
+            "lang": "ja-JP",
+            "instruction": "",
+            "text": "<proszę>は「プリーズ」つまり「お願いします」を意味しますが、もちろんそれだけではなく、ポーランド語を習う上で、もっとも役に立つ言葉かもしれません。正しく使えば、<proszę>はあらゆる扉を開き、人々の心を和らげます。"
+        },
+        {
+            "id": "solidarnosc_ja",
+            "voice_name": "Kore",
+            "lang": "ja-JP",
+            "instruction": "",
+            "text": "1980年代初期、ポーランドの市民運動、<solidarność>（連帯）が人気の頂点にあったとき、世界中の人々が、ポーランド語の ś と ć の文字を通して、変わったアルファベットを持つこの言語に注目しました。ポーランド国内では、この運動の地方委員たちは投獄され、<solidarność>は地下活動へと追いやられます。父親のユイゴンで13 歳の時にポーランドに渡り、実業家となっていた梅田よしほもこの活動に携わり、連帯のいわば「外交官」として活動しました。"
+        },
+        {
+            "id": "taniec_ja",
+            "voice_name": "Kore",
+            "lang": "ja-JP",
+            "instruction": "",
+            "text": "優雅な<polonez>（ポロネーズ）はポーランド舞踊の精髄であり、フランス語でこの言葉は「ポーランド的な」を意味します。この名前は17世紀、フランスで広まったときに生まれ、ポーランドでこの踊りが初めて記録されたのは15世紀にさかのぼります。今もほとんどのポーランド人が、高校卒業に際して開かれる舞踏会で踊ります。"
+        },
+        {
+            "id": "tradycja_ja",
+            "voice_name": "Kore",
+            "lang": "ja-JP",
+            "instruction": "",
+            "text": "キリスト教の習慣が主流であるにもかかわらず、ポーランドには古代スラヴの儀式に由来を持つ伝統行事があります。例えば、イースター翌日のセイ月曜日は<Śmigus Dyngus> でもあり、皆こぞって他人に水をかけるという日です。バケツ一杯かける人すらいます。11月29日、<Andrzejki>「聖アンドリューの日」の前夜には、溶かした蝋を鍵の頭の穴に通して冷たい水に垂らし、現れた形によって、自分を待ち受ける運命をうらないます。"
+        }
+        {
+            "id": "witamina_ja",
+            "voice_name": "Kore",
+            "lang": "ja-JP",
+            "instruction": "",
+            "text": "「ビタミン」という言葉は、ポーランドのセイ化学者<Kazimierz Funk>によって作られ、英語の辞書に組み入れられ、そこからほかの多くの言語へと入っていきました。世界中の語彙に含まれる、ひと握りの「ポーランドの」言葉の一つでしょう。"
+        },
+        {
+            "id": "wojna_ja",
+            "voice_name": "Kore",
+            "lang": "ja-JP",
+            "instruction": "",
+            "text": "第一次世界大戦の終結により、ポーランドは123年間の分割時代を経て、再び自由を得ることになりました。したがって、ほかの国で休戦記念日とされる11月11日は、ポーランドでは<Dzień Niepodległości>（独立記念日）として祝われています。"
+        },
+        {
+            "id": "wolnosc_ja",
+            "voice_name": "Kore",
+            "lang": "ja-JP",
+            "instruction": "",
+            "text": "19 世紀を通して、ポーランド民族の大義と、他民族の自由のための戦いは、同じ問題であると考えられてきました。ポーランド人の<Za wolność naszą i waszą>（我らとあなたがたの自由のために）という言葉は、世界中で反乱の旗じるしとなりました。"
+        },
+        {
+            "id": "wynalazek_ja",
+            "voice_name": "Kore",
+            "lang": "ja-JP",
+            "instruction": "",
+            "text": "ポーランド人は独創的です。ポーランド人による<wynalazki>〔<wynalazek>の複数形, 発明）には、世界初の電子潜水艦（<Stefan Drzewiecki>）、初の「トーキー」つまり映像・音声を一致させた映写機（<Józef Tykociński-Tykociner>）、地雷探知機（<Józef Kosacki>）、宇宙飛行士が月を移動するのに用いた月面車（<Mieczysław Bekker>）、コンピュータ機のコモドール64（<Jack Tramiel>、もともとは、<Jacek Trzmiel>）などがあります。"
+        },
+        {
+            "id": "ziemniak_ja",
+            "voice_name": "Kore",
+            "lang": "ja-JP",
+            "instruction": "",
+            "text": "以前ほどではないにせよ、ポーランド人はじゃがいもを愛し、EU諸国の中で、ひとり当たりのじゃがいもの消費量は首位に近い地位を占めます。<ziemniaki>〔<ziemniak> の複数形〕はたいてい夕食のつけ合わせとして（つぶしたもの、または茹でたものが）食べられています。"
+        },
+        {
+            "id": "zal_ja",
+            "voice_name": "Kore",
+            "lang": "ja-JP",
+            "instruction": "",
+            "text": "フリデリク・ショパンが、彼の作品を貫く（そして対話の相手が「セッカセッコウの素晴らしい彫刻で作られた墓に収められた、名もなき者の悲しみ」と表した）感情とは何かを聞かれたとき、その答えが「<Żal.>」だったと言われています。"
+        },
+        {
+            "id": "zubr_ja",
+            "voice_name": "Kore",
+            "lang": "ja-JP",
+            "instruction": "",
+            "text": "ヨーロッパ・バイソンとしても知られる巨大な<żubr>は、主にポーランド・ベラルーシ国境付近、ポーランド語では<puszcza>と呼ばれる原生林のある、ビャウォヴィエジャ国立公園に生息しています。"
+        }
+    ]
+}
